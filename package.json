@@ -1,0 +1,13 @@
+
+{
+  "name": "buut-md-bot",
+  "version": "1.0.0",
+  "description": "Buut md WhatsApp Auto Reply Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
